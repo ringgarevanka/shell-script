@@ -1,6 +1,6 @@
 #!/system/bin/sh
 
-# Global variables for 
+# Global variables for output
 little_cores=0
 big_cores=0
 little_avg=0
